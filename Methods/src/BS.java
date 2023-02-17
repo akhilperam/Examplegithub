@@ -33,5 +33,8 @@ public class BS {
 			}
 		
 	}
-
+		StringBuffer sb=new StringBuffer("vira");
+		int  count=sb.append("tkohil").length();
+	
+			
 }
