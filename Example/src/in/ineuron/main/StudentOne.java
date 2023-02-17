@@ -38,6 +38,9 @@ public class StudentOne {
 	    System.out.println(st.getAge());
 	    System.out.println(st.getName());
 	    System.out.println(st.getCity());
+	    StringBuffer sb=new StringBuffer("Vira");
+	    sb=sb.append("tkholiRcb");
+	    System.out.println(sb);
 	}
 
 }
